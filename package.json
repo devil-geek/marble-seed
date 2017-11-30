@@ -48,6 +48,7 @@
     "mongoose-datatables": "^3.0.0",
     "node-sass": "^4.5.3",
     "nunjucks": "^3.0.1",
+    "rc-slider": "^8.4.1",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
     "react-fontawesome": "^1.6.1",
